@@ -1,4 +1,4 @@
-# C_SRC-master
+# C_SRC
 
 ## Description
 - C언어 알고리즘 
